@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devcarmelo.github.io/site/readermc/sitemap.xml
